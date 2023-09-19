@@ -1,7 +1,7 @@
-import React from "react";
+import Faq from "./webpages/Faq";
 
 const App = () => {
-  return <div>App</div>;
+  return <Faq />;
 };
 
 export default App;
