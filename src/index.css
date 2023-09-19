@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul {
+  list-style: none;
+  gap: 1rem;
+  margin-right: 1rem;
+  font-size: bold;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
