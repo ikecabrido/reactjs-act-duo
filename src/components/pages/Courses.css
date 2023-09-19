@@ -1,0 +1,14 @@
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+.text p {
+  margin-top: 10px;
+}
+.card .card-footer button {
+  width: 30px;
+}

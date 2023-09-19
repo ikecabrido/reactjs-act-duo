@@ -1,0 +1,11 @@
+#faq {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 40px;
+}
+#faq p {
+  margin-top: 10px;
+}
